@@ -17,7 +17,7 @@
 ```docker image build -t python-web .```
 <p>Para para acessar criar o Banco de dados:</p>
 
-```docker exec -it s4fullstack_ac2-db-1 bin/bash```
+```docker exec -it s4fullstack_ac2-db-1 /bin/bash```
 
 <p>Criar esquema:</p>
 
