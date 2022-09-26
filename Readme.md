@@ -12,7 +12,7 @@
 
 <p>Para subir as informações informadas no meu arquivo de Docker-compose: </p>
 
-```docker-compose up```
+```docker-compose up -d```
 
 ```docker image build -t python-web .```
 <p>Para para acessar criar o Banco de dados:</p>
